@@ -41,7 +41,7 @@
 ---
 
 ### 📬 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/carolinalansoni/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lvbcarol/)  
 - 🌐 Portfólio: (em construção!)
 - 📧 Email: carolinalvboas@outlook.com
 
