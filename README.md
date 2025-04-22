@@ -40,15 +40,6 @@
 
 ---
 
-### 📊 GitHub em ação
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
 ### 📬 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/carolinalansoni/)  
 - 🌐 Portfólio: (em construção!)
@@ -60,5 +51,5 @@
   <i>Muito obrigada por visitar meu perfil! 💖  
   Está preparado para conhecer o futuro da tecnologia? ☕🚀</i>
 </p>
-```
+
 
