@@ -12,7 +12,7 @@
 ---
 
 ### 🌸 Sobre mim
-- 🎓 Estudante do **3º semestre de Sistemas de Informação** no <strong>Instituto Mauá de Tecnologia</strong>
+- 🎓 Estudante do **4º semestre de Sistemas de Informação** no <strong>Instituto Mauá de Tecnologia</strong>
 - 🤖 Interesse pelas áreas de **inteligência artificial** e **aprendizado de máquina**
 - 📈 Em constante evolução — **disposta a aprender, errar e melhorar** a cada dia
 - 💼 Em busca de oportunidades que me permitam crescer como profissional e como pessoa
